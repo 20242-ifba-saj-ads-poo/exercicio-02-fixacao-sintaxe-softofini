@@ -1,7 +1,7 @@
-//QUESTÃO 4/5
+//QUESTÃO 4
 class Exercicio4{
 	public static void main(String[] args) {
-	    long fatorial = 1;
+	    int fatorial = 1;
 	    
 	    
         for (int n = 1; n <= 20; n++){
