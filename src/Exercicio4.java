@@ -4,7 +4,7 @@ class Exercicio4{
 	    int fatorial = 1;
 	    
 	    
-        for (int n = 1; n <= 20; n++){
+        for (int n = 1; n <= 10; n++){
             fatorial = 1;
             for(int i = n; i > 0; i--){
                 fatorial = fatorial*i;
