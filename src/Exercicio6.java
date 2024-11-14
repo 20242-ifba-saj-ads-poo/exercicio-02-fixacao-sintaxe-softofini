@@ -9,9 +9,9 @@ class Exercicio6 {
        numero = anterior1 + anterior2;
        anterior1 = anterior2;
        anterior2 = numero;
-       if(numero<100){
-           System.out.println(numero);
-       }
+      
+       System.out.println(numero);
+       
        
     } 
     
